@@ -1,4 +1,4 @@
-# mask-detection
+# mask-detection-using-nano-jetson-2gb
 # Mask Detection
 
 ## Aim and Objective
