@@ -7,6 +7,19 @@
 
 To create a Mask detection system which will detect Human face and then check if mask  is worn or not.
 
+
+### Demo 
+
+
+https://github.com/Rakhininawe/mask-detection/assets/147587956/6a9e8cf0-34c9-4f7b-bb75-cac24ffcdda5
+
+### link:- https://youtu.be/kzw6olS1fB4
+
+
+
+
+
+
 ## Objective
 
 • The main objective of the project is to create a program which can be either run on Jetson nano or any pc with YOLOv5 installed and start detecting using the camera module on the device. • Using appropriate datasets for recognizing and interpreting data using machine learning. • To show on the optical viewfinder of the camera module whether a person is wearing a Mask or not.
